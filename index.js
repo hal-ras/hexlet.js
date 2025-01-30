@@ -1,3 +1,5 @@
 import _ from 'lodash'
-console.log('Hello, Hexlet!')
-console.log(_.last(['one', 'two']))
+
+import greeting from './src/index.js'
+
+export default greeting
