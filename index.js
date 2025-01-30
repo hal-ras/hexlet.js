@@ -1,5 +1,5 @@
-import _ from 'lodash'
+import _ from 'lodash';
 
-import greeting from './src/index.js'
+import greeting from './src/index.js';
 
-export default greeting
+export default greeting;
