@@ -30,6 +30,7 @@ export default [
     },
     plugins: { import: importPlugin },
     rules: {
+      'linebreak-style': LF,
       ...importPlugin.configs.recommended.rules,
     },
   },
